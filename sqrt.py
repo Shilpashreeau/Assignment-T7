@@ -6,7 +6,7 @@
 #D is a variable whose values should be input to your program in a comma-separated sequence.
 
 #here not clear about giving input in comma seperated sequence
-
+#not working
 from cmath import sqrt
 import math
 
